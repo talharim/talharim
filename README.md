@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @talharim
+- 👋 Hi, I’m Pietro Martins
 - 👀 I’m interested in inprove myself, learning more about programming and learn others programming languages.
 - 🌱 I’m currently learning some programming languages like HTML, PHP, CSS, SQL, C++, C#, amoung others.
 - 💞️ I’m looking to collaborate transmitting my knowledge to anothers persons.
